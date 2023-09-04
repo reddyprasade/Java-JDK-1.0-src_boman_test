@@ -2,7 +2,7 @@ Auth:
   project_token: b758d9f8-6272-425f-883a-15ed1550496b
   customer_token: d8a90f5c-b4ed-40ea-a83d-7a4bcb103bc0
 SAST:
-  language: java
+  language: semgrep
 # DAST:
 #   language: java
 #   url:  "https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/java/awt/package-summary.html"
