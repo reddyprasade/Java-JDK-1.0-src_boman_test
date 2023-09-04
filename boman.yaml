@@ -3,6 +3,9 @@ Auth:
   customer_token: d8a90f5c-b4ed-40ea-a83d-7a4bcb103bc0
 SAST:
   language: java
+DAST:
+  language: java
+  url:  "https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/java/awt/package-summary.html"
 SCA:
   language: java
 Secret_Scan: true
